@@ -5,4 +5,4 @@ RISTY RESOLUSI
   * facebook messenger
   * whatsapp
 - membuat penelitian data science / data mining
-- kolaborasi dengan banyak expert
+- membuat proyek aplikasi python
