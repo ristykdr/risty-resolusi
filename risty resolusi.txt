@@ -1,0 +1,7 @@
+RISTY RESOLUSI
+- konsisten membuat konten video materi 2 video seminggu (Data Mining dan Dasar Python untuk data mining)
+- membuat website menajemen stock sadiya hijab menggunakan bahasa python
+- membuat chat bot untuk "auto Costomer Service" untuk sadiya hijab
+  * facebook messenger
+  * whatsapp
+ 
