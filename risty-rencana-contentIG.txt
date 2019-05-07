@@ -12,3 +12,4 @@ RENCANA KONTEN IG RISTY
   + tambah A
   + tambah B
   + tambah C
+  + tambah D
